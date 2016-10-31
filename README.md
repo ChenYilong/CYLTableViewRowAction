@@ -11,3 +11,5 @@ pod "CYLTableViewRowAction", "1.0.0"
 
 Now you can se UITableViewRowAction as if it supports iOS7+.".
 
+Note:
+This lib is similar to [JZTableViewRowAction](https://github.com/JazysYu/JZTableViewRowAction), more friendly to CocoaPods.
